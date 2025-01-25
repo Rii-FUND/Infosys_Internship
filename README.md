@@ -28,7 +28,7 @@ Key steps:
 
 ---
 
-### Issue Escalation (`issue_escalation.ipynb`)
+### Issue Escalation (`https://github.com/Rii-FUND/Infosys_Internship/blob/main/customerSupportTickets/rough/2.%20Sentiment%20Analysis/Copy_of_sentiment_analysis_gemini_final.ipynb`)
 This module identifies tickets requiring escalation based on specific keywords and patterns. If an issue is marked for escalation:
 - The ticket is forwarded to a human agent for review.
 - Automated responses are bypassed to ensure personalized handling.
