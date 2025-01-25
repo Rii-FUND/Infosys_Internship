@@ -16,7 +16,7 @@ The project begins with an exploratory **data analysis** conducted on two datase
 
 ---
 
-### Sentiment Analysis (`sentiment_analysis.ipynb`)
+### Sentiment Analysis 
 This module determines the sentiment of the user based on their ticket. By classifying tickets into positive, neutral, or negative sentiments, the system:
 - Prioritizes tickets requiring immediate attention.
 - Provides insights into the overall customer satisfaction levels.
@@ -28,7 +28,7 @@ Key steps:
 
 ---
 
-### Issue Escalation (`https://github.com/Rii-FUND/Infosys_Internship/blob/main/customerSupportTickets/rough/2.%20Sentiment%20Analysis/Copy_of_sentiment_analysis_gemini_final.ipynb`)
+### Issue Escalation
 This module identifies tickets requiring escalation based on specific keywords and patterns. If an issue is marked for escalation:
 - The ticket is forwarded to a human agent for review.
 - Automated responses are bypassed to ensure personalized handling.
@@ -39,7 +39,7 @@ Key steps:
 
 ---
 
-### Response Automation (`response_automation_trial.ipynb`)
+### Response Automation
 This module generates automated responses for tickets using two distinct approaches:
 
 1. **Classical Machine Learning and Transformer-based Classification**:
