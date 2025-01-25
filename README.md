@@ -39,7 +39,7 @@ Key steps:
 
 ---
 
-### Response Automation (`response_automation.ipynb`)
+### Response Automation (`response_automation_trial.ipynb`)
 This module generates automated responses for tickets using two distinct approaches:
 
 1. **Classical Machine Learning and Transformer-based Classification**:
