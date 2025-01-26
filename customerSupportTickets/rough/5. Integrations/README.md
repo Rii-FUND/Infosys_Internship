@@ -1,1 +1,1 @@
-# infosys_internship
+# infosys_inernship
