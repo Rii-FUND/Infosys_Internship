@@ -62,10 +62,11 @@ This module generates automated responses for tickets using two distinct approac
 - This is a cluster visdualisation of products
    <img width="452" alt="image" src="https://github.com/user-attachments/assets/7dae6bfb-f393-460a-835b-1e35acdb60bc" />
 
+
 - Some top issues on each cluster
   <img width="422" alt="image" src="https://github.com/user-attachments/assets/39a09618-2ee1-4975-9ead-a4c9a35fd2ed" />
 
-
+  
 - automated response on a prompt
   <img width="695" alt="image" src="https://github.com/user-attachments/assets/f66730b6-e1c4-4499-b547-747b44b43398" />
 
