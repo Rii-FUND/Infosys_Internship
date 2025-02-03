@@ -36,8 +36,8 @@ Key steps:
 **This is a confusion matrix of seeing how the predicted labels (done by gemini is actually matching the true labels or not(100 data points)) and then we add examples in the prompt for sentiment analysis**
 ![image](https://github.com/user-attachments/assets/1a8dee8b-0570-44c6-933b-9869f63906fc)
 
-**F1 scores found**
-![WhatsApp Image 2025-01-26 at 16 39 40_9621557d](https://github.com/user-attachments/assets/22c08472-a638-4532-a921-bba5598ef41b)
+**F1 scores found, as you can see there are multiple f1 scores calculated and based on the scores we are improving the model by analysisng the data more and adding more examples or better examples**
+<img width="314" alt="image" src="https://github.com/user-attachments/assets/98b36e3e-0192-42a3-b34b-c83f512beda0" />
 
 ---
 
