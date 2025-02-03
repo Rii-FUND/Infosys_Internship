@@ -33,8 +33,11 @@ Key steps:
 **Test Cases with sentiment prediction and thought**
 <img width="918" alt="image" src="https://github.com/user-attachments/assets/3ee9c095-0fcd-463c-87cb-8140a55f6966" />
 
-**This is a confusion matrix of seeing how the predicted labels (done by gemini is actually matching the true labels or not(100 data points)) and then we add examples in the prompt**
+**This is a confusion matrix of seeing how the predicted labels (done by gemini is actually matching the true labels or not(100 data points)) and then we add examples in the prompt for sentiment analysis**
 ![image](https://github.com/user-attachments/assets/1a8dee8b-0570-44c6-933b-9869f63906fc)
+
+**F1 scores found**
+![WhatsApp Image 2025-01-26 at 16 39 40_9621557d](https://github.com/user-attachments/assets/22c08472-a638-4532-a921-bba5598ef41b)
 
 ---
 
